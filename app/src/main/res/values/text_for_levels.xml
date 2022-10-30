@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1_text0">Ноль</string>
+    <string name="lvl1_text1">Один</string>
+    <string name="lvl1_text2">Два</string>
+    <string name="lvl1_text3">Три</string>
+    <string name="lvl1_text4">Четыре</string>
+    <string name="lvl1_text5">Пять</string>
+    <string name="lvl1_text6">Шесть</string>
+    <string name="lvl1_text7">Семь</string>
+    <string name="lvl1_text8">Восемь</string>
+    <string name="lvl1_text9">Девять</string>
+
+
+    <string name="lvl2_text1">Один</string>
+    <string name="lvl2_text2">Два</string>
+    <string name="lvl2_text3">Три</string>
+    <string name="lvl2_text4">Четыре</string>
+    <string name="lvl2_text5">Пять</string>
+    <string name="lvl2_text6">Шесть</string>
+    <string name="lvl2_text7">Семь</string>
+    <string name="lvl2_text8">Восемь</string>
+    <string name="lvl2_text9">Девять</string>
+    <string name="lvl2_text10">Десять</string>
+</resources>

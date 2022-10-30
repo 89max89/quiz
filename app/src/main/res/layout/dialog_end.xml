@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/dialogfon_end"
+    android:background="@drawable/preview_backgraund_onelevel"
+    android:layout_gravity="center"
+    android:scaleType="centerCrop"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:id="@+id/button_close_end"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="end"
+            android:background="@drawable/button_stroke_black95_press_white"
+            android:gravity="center"
+            android:text="X"
+            android:textStyle="bold">
+
+        </TextView>
+
+
+
+        <TextView
+            android:id="@+id/text_description_end"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:layout_weight="20"
+            android:text="@string/level_1_end"
+            android:textColor="@color/black95"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/button_comtinue_end"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:background="@drawable/btn_stroke_white_press_blue"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:text="@string/text_continue"
+            android:textColor="@color/white" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

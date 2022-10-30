@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="back" translatable="false">НАЗАД</string>
+    <string name="lrvel" translatable="false">УРОВЕНЬ:</string>
+    <string name="level_1">Уровень 1</string>
+    <string name="text_continue">Продолжеть</string>
+    <string name="todo">TODO</string>
+    <string name="_60"><![CDATA[<]]></string>
+</resources>

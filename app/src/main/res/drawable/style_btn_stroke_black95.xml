@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--кнопка не нажатая-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<stroke android:width="5dp" android:color="@color/black95"/>
+<corners android:radius="100dp"/>
+
+
+
+
+</shape>
